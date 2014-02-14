@@ -1,0 +1,32 @@
+* References
+** Madison West Rocketry http://westrocketry.com/sli2008/
+   A group of students launched a rocket and collected pollen samples
+   up to about 4000 feet.  They found roughly 50% as much pollen at
+   that altitude as in the 1000 foot range.  Their work was based on
+   a study by Camtois et al. in 1999 (could not find exact
+   reference).
+** Aerobiologia http://link.springer.com/journal/10453
+   It seems like this is *the* journal for this kind of research.
+   Could we get access?
+** Alcazar et al. 1999
+   http://www.uco.es/aerobiologia/publicaciones/methodology/sampler_location/alcazar_effects.pdf
+   They only did samplings at 1.5 and 15 m.  The references in this
+   article may be useful.
+** Alcazar et al. 2003
+   http://www.uco.es/rea/publicaciones/andalucia/cordoba/alcazar_aerobiologia.pdf
+   Paper on using double-sided tape for pollen sampling.
+** Comtois and Mandrioli 1997
+   http://link.springer.com/article/10.1007/BF02694501
+   "Pollen capture media: a comparative study" - could be very informative!
+** Comtois and Alcazar 2000
+   http://www.tandfonline.com/doi/pdf/10.1080/00173130052504342
+   Influence of sampler height and orientation.  Only up to 15m.
+** Comtois et al. 1999
+   http://link.springer.com/article/10.1023%2FA%3A1007685513925
+   "Pollen content study of the lower atmosphere in León (Spain) by
+   use of a tethered balloon"
+
+   This appears to be the article referenced by the Madison West
+   Rocketry group.  They specifically used a balloon!  Maximum
+   altitude was 600 m (around 2000 ft).  Correlated environmental
+   factors with how they influence pollen count at various altitudes.
